@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldinkole
-- 👀 I’m interested in Javascript, PHP
+- 👀 I’m interested in everything that have connection to Javascript or PHP programming language
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me? aldinkolenovic@gmail.com
