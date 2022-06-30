@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aldinkole
 - 👀 I’m interested in everything that have connection to Javascript or PHP programming language
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on interesting project
-- 📫 How to reach me? aldinkolenovic@gmail.com
+
 
 <!---
 aldinkole/aldinkole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
