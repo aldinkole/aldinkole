@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aldinkole
-- 👀 I’m interested in everything that have connection to Javascript or PHP programming language
-- 🌱 I’m currently learning Next.js
 
 
 <!---
